@@ -2,7 +2,7 @@
 
 ## Labels
 
-Création automatique des labels sur un repo : [create_labels.sh](https://gist.githubusercontent.com/jbanety/b8077dfe87ee3c5aa9bd1735baceef8f/raw/create_labels.sh)
+Création automatique des labels sur un repo : [create_labels.sh](https://gist.github.com/jbanety/b8077dfe87ee3c5aa9bd1735baceef8f)
 
 Thème         | Labels        | Description
 ------------- | ------------- | -------------
