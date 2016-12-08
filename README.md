@@ -4,4 +4,4 @@
 
 Thème        | Couleur       | Labels
 ------------ | ------------- | -------------
-Statut       | test          | ![](http://github-labels.etd-solutions.com/?text=question&bg=f00&color=fff&cachebust=1)
+Statut       | test          | ![](http://github-labels.etd-solutions.com/?text=question&bg=f00&color=fff&cachebust=2)
