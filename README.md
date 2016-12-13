@@ -4,6 +4,18 @@ Préparation automatique d'un repo : [prepare_repo](https://github.etd-solutions
 - Labels
 - Templates Issues / PR
 
+## Pipelines
+
+Nom         | Description
+----------- | -----------
+New Issues  | Toutes les nouvelles issues créées arrivent ici. On doit les envoyer dans un autre pipeline dès que possible.
+Icebox      | Les issues que l'on se garde pour plus tard : des idées, des choses que l'on ne fera pas tout de suite, ...
+Backlog     | On ne travaille pas sur ces issues pour l'instant, mais on agit quand même sur elles. Si elles n'ont pas de `milestone` elles font parties du `Product Backlog` sinon du `Sprint Backlog`.
+To Do       | Alimenté par les issues **bien définies**. Ce pipeline est le focus courant de l'équipe. Ces issues iront dans le pipeline `In Progress`, on les **classe** par priorité et on assigne les "garants" de la bonne réalisation.
+In Progress | Ce pipeline répond à la question : "Sur quoi sommes-nous en train de travailler ?". Idéalement, chaque membre de l'équipe doit travailler sur une seule chose en même temps.
+Done        | Les issues sont prêtes pour être mise en production ou staging.
+Closed      | Ce sont les issues terminées.
+
 ## Labels
 
 Thème         | Labels        | Description
