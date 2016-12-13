@@ -26,6 +26,10 @@ En Scrum, les sprints sont des durées fixes de temps dans lesquelles une part d
 
 Les User Stories sont les descriptions (de haut-niveau) des fonctionnalités qui permettent de les définir d'un point de vue Client.
 
+### Sub-tasks ➙ Markdown checklists
+
+Les sous-tâches sont représentées dans l'issue sous forme de listes à puce avec une case à cocher pour déterminer leur validation.
+
 ### Epics ➙ Epics
 
 Intégré avec ZenHub ⇒ https://www.zenhub.com
