@@ -34,6 +34,8 @@ On doit se demander si :
  - elle est négociable : plusieurs voies possibles pour atteindre l'objectif ;
  - elle est petite et peut être facilement estimée en terme de temps et ressources requises ;
  - elle est mesurable, on peut tester le résultat.
+ 
+ On a un template pré-défini : [Templates Issues / PR](#templates-issues--pr)
 
 ## Pipelines
 
