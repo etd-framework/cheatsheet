@@ -2,6 +2,7 @@
 
 
 * [Préparation automatique](#préparation-automatique)
+* [L'agilité dans GitHub](#l-agilité-dans-github)
 * [Pipelines](#pipelines)
 * [Labels](#labels)
 * [Bien remplir une issue](#bien-remplir-une-issue)
@@ -14,6 +15,29 @@
 Script PHP : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
 - Labels
 - Templates Issues / PR
+
+## L'agilité dans GitHub
+
+### Sprint ➙ Milestone (jalon)
+
+En Scrum, les sprints sont des durées fixes de temps dans lesquelles une part du travail préalablement acceptée a été terminée et prête à être livrée.
+
+### User stories ➙ Issues
+
+Les User Stories sont les descriptions (de haut-niveau) des fonctionnalités qui permettent de les définir d'un point de vue Client.
+
+### Epics ➙ Epics
+
+Intégré avec ZenHub ⇒ https://www.zenhub.com
+
+### Product backlog ➙ Issues ouvertes sans Milestone
+
+Les issues y sont rangées verticalement par importance.
+
+### Sprint backlog ➙ Issues avec un Milestone
+
+Ici, les issues doivent être estimées, inclure du détail et avoir un Milestone.
+
 
 ## Pipelines
 
