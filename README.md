@@ -2,9 +2,10 @@
 
 
 * [Préparation automatique](#préparation-automatique)
-* [Bien remplir une issue](#bien-remplir-une-issue)
 * [Pipelines](#pipelines)
 * [Labels](#labels)
+* [Bien remplir une issue](#bien-remplir-une-issue)
+* [Un bon backlog](#un-bon-backlog)
 * [Templates Issues / PR](#templates-issues--pr)
 
 
@@ -13,29 +14,6 @@
 Script PHP : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
 - Labels
 - Templates Issues / PR
-
-## Bien remplir une issue
-
-On démarre toujours de la même façon.
-Les User Stories répondent aux questions **qui, quoi et pourquoi ?** d'une fonctionnalité.
-
-> **En tant que \<rôle\>, je veux \<tâche\> qui me permettra de \<objectif\>**.
-
-Exemple : En tant que \<*Client Enregistré*\>, je veux \<*passer une commande en un seul clic*\> qui me permettra de \<*gagner du temps*\>.
-
-Cette phrase est à mettre dans le **titre de l'issue**.
-
-Le but est de bien définir l'issue : on idenifie l'audience, l'action et les bénéfices (ou objectifs) le plus simplement possible.
-
-On doit se demander si :
- - c'est quelque chose de valeur pour le Client ;
- - on a bien évité le jargon... Le client doit pouvoir comprendre ;
- - elle est indépendante des autres issues si possible ;
- - elle est négociable : plusieurs voies possibles pour atteindre l'objectif ;
- - elle est petite et peut être facilement estimée en terme de temps et ressources requises ;
- - elle est mesurable, on peut tester le résultat.
- 
- On a un template pré-défini : [Templates Issues / PR](#templates-issues--pr)
 
 ## Pipelines
 
@@ -64,6 +42,51 @@ Ajouts      | ![](http://github.etd-solutions.com/label.php?text=fonction&bg=91C
 En attente  | ![](http://github.etd-solutions.com/label.php?text=en cours&bg=FBCA04&color=332900) ![](http://github.etd-solutions.com/label.php?text=a surveiller&bg=FBCA04&color=332900) | Travail en cours, mais a besoin de quelques éléments avant. Une fonctionnalité qui a besoin d'une mise à jour d'une dépendency ou un bug qui nécessite plus de données.
 Inactive  | ![](http://github.etd-solutions.com/label.php?text=invalide&bg=D2DAE1&color=2F3133) ![](http://github.etd-solutions.com/label.php?text=wontfix&bg=D2DAE1&color=2F3133) ![](http://github.etd-solutions.com/label.php?text=doublon&bg=D2DAE1&color=2F3133) ![](http://github.etd-solutions.com/label.php?text=en attente&bg=D2DAE1&color=2F3133) | Pas d'action requise ou possible. L'issue est soit corrigée, mieux définies dans une autre issue ou seulement en dehors du scope du projet.
 Quick Fixes! | ![](http://github.etd-solutions.com/label.php?text=boum&bg=FFFF00&color=333300) ![](http://github.etd-solutions.com/label.php?text=45min&bg=FFFF00&color=333300) | Les issues qui peuvent être traitées rapidement !
+
+## Bien remplir une issue
+
+On démarre toujours de la même façon.
+Les User Stories répondent aux questions **qui, quoi et pourquoi ?** d'une fonctionnalité.
+
+> **En tant que \<rôle\>, je veux \<tâche\> qui me permettra de \<objectif\>**.
+
+Exemple : En tant que \<*Client Enregistré*\>, je veux \<*passer une commande en un seul clic*\> qui me permettra de \<*gagner du temps*\>.
+
+Cette phrase est à mettre dans le **titre de l'issue**.
+
+Le but est de bien définir l'issue : on idenifie l'audience, l'action et les bénéfices (ou objectifs) le plus simplement possible.
+
+On doit se demander si :
+ - c'est quelque chose de valeur pour le Client ;
+ - on a bien évité le jargon... Le client doit pouvoir comprendre ;
+ - elle est indépendante des autres issues si possible ;
+ - elle est négociable : plusieurs voies possibles pour atteindre l'objectif ;
+ - elle est petite et peut être facilement estimée en terme de temps et ressources requises ;
+ - elle est mesurable, on peut tester le résultat.
+ 
+On a un template pré-défini : [Templates Issues / PR](#templates-issues--pr)
+
+## Un bon backlog
+
+### DEEP !
+
+#### Detailed appropriately (détaillée correctement)
+
+Plus l'issue est haute dans le backlog, plus elle doit être détaillée !
+
+#### Estimated (estimée)
+
+Le backlog est plus qu'une TO-DO list. On planifie avec !
+Les issues en haute doivent être estimée correctement : en temps, en complexité, ...
+
+#### Emergent (plein d'avenir)
+
+**Dans un backlog, le temps, le budget et la qualité sont toutes des variables fixes !** Le cadre, non. 
+C'est à dire que des issues seront "gelées" dans l`icebox`, fermées, ajoutées ou modifiées dès qu'on en saura plus.
+
+#### Prioritized (prioritisé)
+
+Les issues doivent être rangées verticalement en fonction de leur valeur business (valeur pour le client).
 
 ## Templates Issues / PR
 
