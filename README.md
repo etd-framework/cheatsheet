@@ -1,8 +1,10 @@
 # Cheatsheet pour les bonnes pratiques chez ETD !
 
-## Labels
+Préparation automatique d'un repo : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
+- Labels
+- Templates Issues / PR
 
-Création automatique des labels sur un repo : [create_labels](https://github.etd-solutions.com/create_labels.php)
+## Labels
 
 Thème         | Labels        | Description
 ------------- | ------------- | -------------
