@@ -1,6 +1,8 @@
 # Cheatsheet pour les bonnes pratiques chez ETD !
 
+
 * [Préparation automatique](#préparation-automatique)
+* [Bien remplir une issue](#bien-remplir-une-issue)
 * [Pipelines](#pipelines)
 * [Labels](#labels)
 * [Templates Issues / PR](#templates-issues--pr)
@@ -11,6 +13,27 @@
 Script PHP : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
 - Labels
 - Templates Issues / PR
+
+## Bien remplir une issue
+
+On démarre toujours de la même façon.
+Les User Stories répondent aux questions **qui, quoi et pourquoi ?** d'une fonctionnalité.
+
+> **En tant que \<rôle\>, je veux \<tâche\> qui me permettra de \<objectif\>**.
+
+Exemple : En tant que \<*Client Enregistré*\>, je veux \<*passer une commande en un seul clic*\> qui me permettra de \<*gagner du temps*\>.
+
+Cette phrase est à mettre dans le **titre de l'issue**.
+
+Le but est de bien définir l'issue : on idenifie l'audience, l'action et les bénéfices (ou objectifs) le plus simplement possible.
+
+On doit se demander si :
+ - c'est quelque chose de valeur pour le Client ;
+ - on a bien évité le jargon... Le client doit pouvoir comprendre ;
+ - elle est indépendante des autres issues si possible ;
+ - elle est négociable : plusieurs voies possibles pour atteindre l'objectif ;
+ - elle est petite et peut être facilement estimée en terme de temps et ressources requises ;
+ - elle est mesurable, on peut tester le résultat.
 
 ## Pipelines
 
