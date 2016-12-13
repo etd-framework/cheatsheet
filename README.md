@@ -2,7 +2,7 @@
 
 
 * [Préparation automatique](#préparation-automatique)
-* [L'agilité dans GitHub](#l-agilité-dans-github)
+* [L'agilité dans GitHub](#lagilité-dans-github)
 * [Pipelines](#pipelines)
 * [Labels](#labels)
 * [Bien remplir une issue](#bien-remplir-une-issue)
