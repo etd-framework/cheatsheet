@@ -1,6 +1,9 @@
 # Cheatsheet pour les bonnes pratiques chez ETD !
 
-
+* [Préparation automatique](#préparation-automatique)
+* [Pipelines](#pipelines)
+* [Labels](#labels)
+* [Templates Issues / PR](#templates-issues--pr)
 
 
 ## Préparation automatique
