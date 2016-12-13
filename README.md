@@ -77,7 +77,7 @@ Quick Fixes! | ![](http://github.etd-solutions.com/label.php?text=boum&bg=FFFF00
 On démarre toujours de la même façon.
 Les User Stories répondent aux questions **qui, quoi et pourquoi ?** d'une fonctionnalité.
 
-> **En tant que \<rôle\>, je veux \<tâche\> qui me permettra de \<objectif\>**.
+> **En tant que \<rôle\>, je veux \<tâche\> ce qui me permettra de \<objectif\>**.
 
 Exemple : En tant que \<*Client Enregistré*\>, je veux \<*passer une commande en un seul clic*\> qui me permettra de \<*gagner du temps*\>.
 
