@@ -81,8 +81,6 @@ Les User Stories répondent aux questions **qui, quoi et pourquoi ?** d'une fonc
 
 Exemple : En tant que \<*Client Enregistré*\>, je veux \<*passer une commande en un seul clic*\> qui me permettra de \<*gagner du temps*\>.
 
-Cette phrase est à mettre dans le **titre de l'issue**.
-
 Le but est de bien définir l'issue : on idenifie l'audience, l'action et les bénéfices (ou objectifs) le plus simplement possible.
 
 On doit se demander si :
@@ -131,9 +129,12 @@ Dans le même esprit, **si une issue deviens trop complexe – s'il y a plusieur
 ```md
 ## User Story
 
+En tant que *rôle*, je veux *tâche* ce qui me permettra de *objectif*.
+
 ## Critères d'acceptation
 
 - [ ] 
 - [ ] 
 
 ## Définition de "Done"
+```
