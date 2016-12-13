@@ -19,3 +19,15 @@ Ajouts      | ![](http://github.etd-solutions.com/label.php?text=fonction&bg=91C
 En attente  | ![](http://github.etd-solutions.com/label.php?text=en cours&bg=FBCA04&color=332900) ![](http://github.etd-solutions.com/label.php?text=a surveiller&bg=FBCA04&color=332900) | Travail en cours, mais a besoin de quelques éléments avant. Une fonctionnalité qui a besoin d'une mise à jour d'une dépendency ou un bug qui nécessite plus de données.
 Inactive  | ![](http://github.etd-solutions.com/label.php?text=invalide&bg=D2DAE1&color=2F3133) ![](http://github.etd-solutions.com/label.php?text=wontfix&bg=D2DAE1&color=2F3133) ![](http://github.etd-solutions.com/label.php?text=doublon&bg=D2DAE1&color=2F3133) ![](http://github.etd-solutions.com/label.php?text=en attente&bg=D2DAE1&color=2F3133) | Pas d'action requise ou possible. L'issue est soit corrigée, mieux définies dans une autre issue ou seulement en dehors du scope du projet.
 Quick Fixes! | ![](http://github.etd-solutions.com/label.php?text=boum&bg=FFFF00&color=333300) ![](http://github.etd-solutions.com/label.php?text=45min&bg=FFFF00&color=333300) | Les issues qui peuvent être traitées rapidement !
+
+## Templates Issues / PR
+
+```md
+## User Story
+
+## Critères d'acceptation
+
+- [ ] 
+- [ ] 
+
+## Définition de "Done"
