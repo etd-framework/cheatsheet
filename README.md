@@ -7,7 +7,7 @@
 * [Labels](#labels)
 * [Bien remplir une issue](#bien-remplir-une-issue)
 * [Un bon backlog](#un-bon-backlog)
-* [Alors, Issue ou Epic ?](#alors-issue-ou-epic)
+* [Alors, Issue ou Epic ?](#alors-issue-ou-epic-)
 * [Templates Issues / PR](#templates-issues--pr)
 
 
