@@ -7,6 +7,7 @@
 * [Labels](#labels)
 * [Bien remplir une issue](#bien-remplir-une-issue)
 * [Un bon backlog](#un-bon-backlog)
+* [Alors, Issue ou Epic ?](#alors-issue-ou-epic)
 * [Templates Issues / PR](#templates-issues--pr)
 
 
@@ -115,6 +116,15 @@ C'est à dire que des issues seront "gelées" dans l`icebox`, fermées, ajoutée
 #### Prioritized (prioritisé)
 
 Les issues doivent être rangées verticalement en fonction de leur valeur business (valeur pour le client).
+
+## Alors, Issue ou Epic ?
+
+On doit considérer le temps et la complexité.
+
+**Les issues qui doivent être terminées dans un temps le plus possible.**
+Si elle prend des semaines ou des mois à faire, c'est sûrement une Epic.
+Dans le même esprit, **si une issue deviens trop complexe – s'il y a plusieurs tâches nécessaires pour la terminer – c'est mieux de la mettre en Epic.**
+
 
 ## Templates Issues / PR
 
