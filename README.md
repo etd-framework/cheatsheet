@@ -1,6 +1,11 @@
 # Cheatsheet pour les bonnes pratiques chez ETD !
 
-Préparation automatique d'un repo : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
+
+
+
+## Préparation automatique
+
+Script PHP : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
 - Labels
 - Templates Issues / PR
 
