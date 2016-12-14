@@ -99,12 +99,12 @@ On a un template pré-défini : [Templates Issues / PR](#templates-issues--pr)
 
 #### Detailed appropriately (détaillée correctement)
 
-Plus l'issue est haute dans le backlog, plus elle doit être détaillée !
+Plus l'issue est haut dans le backlog, plus elle doit être détaillée !
 
 #### Estimated (estimée)
 
 Le backlog est plus qu'une TO-DO list. On planifie avec !
-Les issues en haute doivent être estimée correctement : en temps, en complexité, ...
+Les issues en haute doivent être estimées correctement : en temps, en complexité, ...
 
 #### Emergent (plein d'avenir)
 
@@ -119,9 +119,9 @@ Les issues doivent être rangées verticalement en fonction de leur valeur busin
 
 On doit considérer le temps et la complexité.
 
-**Les issues qui doivent être terminées dans un temps le plus possible.**
+**Les issues qui doivent être terminées dans un temps le plus court possible.**
 Si elle prend des semaines ou des mois à faire, c'est sûrement une Epic.
-Dans le même esprit, **si une issue deviens trop complexe – s'il y a plusieurs tâches nécessaires pour la terminer – c'est mieux de la mettre en Epic.**
+Dans le même esprit, **si une issue devient trop complexe – s'il y a plusieurs tâches nécessaires pour la terminer – c'est mieux de la mettre en Epic.**
 
 
 ## Templates Issues / PR
