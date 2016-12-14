@@ -14,6 +14,8 @@
 ## Préparation automatique
 
 Script PHP : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
+
+Pour créer :
 - Labels
 - Templates Issues / PR
 
@@ -77,9 +79,9 @@ Quick Fixes! | ![](http://github.etd-solutions.com/label.php?text=boum&bg=FFFF00
 On démarre toujours de la même façon.
 Les User Stories répondent aux questions **qui, quoi et pourquoi ?** d'une fonctionnalité.
 
-> **En tant que \<rôle\>, je veux \<tâche\> ce qui me permettra de \<objectif\>**.
+> **En tant que \<rôle\>, je veux \<tâche\> afin de \<objectif\>**.
 
-Exemple : En tant que \<*Client Enregistré*\>, je veux \<*passer une commande en un seul clic*\> qui me permettra de \<*gagner du temps*\>.
+Exemple : En tant que \<*Client Enregistré*\>, je veux \<*passer une commande en un seul clic*\> afin de \<*gagner du temps*\>.
 
 Le but est de bien définir l'issue : on idenifie l'audience, l'action et les bénéfices (ou objectifs) le plus simplement possible.
 
@@ -129,7 +131,7 @@ Dans le même esprit, **si une issue devient trop complexe – s'il y a plusieur
 ```md
 ## User Story
 
-En tant que *rôle*, je veux *tâche* ce qui me permettra de *objectif*.
+En tant que *rôle*, je veux *tâche* afin de *objectif*.
 
 ## Critères d'acceptation
 
