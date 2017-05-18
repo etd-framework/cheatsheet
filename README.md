@@ -18,6 +18,11 @@ Script PHP : [prepare_repo](https://github.etd-solutions.com/prepare_repo.php)
 Pour créer :
 - Labels
 - Templates Issues / PR
+- Issues de base pour un site vitrine
+
+## Standards de code dans PHPStorm
+
+Fichier de formatage du code PHP : [ETD Solutions.xml](https://www.dropbox.com/s/d8d6uqwdlg2v2sc/ETD%20Solutions.xml?dl=1)
 
 ## L'agilité dans GitHub
 
